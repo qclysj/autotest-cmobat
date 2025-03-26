@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","10034","test_01_login[18292830257-12345]","","Tue Mar 25 09:39:46 CST 2025","passed","Tue Mar 25 09:39:56 CST 2025","TestDemo","test_case","",""
+"","12800","test_01_login[123-pang20040207]","","Tue Mar 25 09:39:34 CST 2025","passed","Tue Mar 25 09:39:46 CST 2025","TestDemo","test_case","",""
+"","9605","test_01_search[iphone16promax]","","Tue Mar 25 09:40:18 CST 2025","passed","Tue Mar 25 09:40:27 CST 2025","TestDemo","test_case","",""
+"","11020","test_01_search[ ]","","Tue Mar 25 09:40:07 CST 2025","passed","Tue Mar 25 09:40:18 CST 2025","TestDemo","test_case","",""
+"","10079","test_01_login[18292830257-pang20040207]","","Tue Mar 25 09:39:57 CST 2025","passed","Tue Mar 25 09:40:07 CST 2025","TestDemo","test_case","",""
