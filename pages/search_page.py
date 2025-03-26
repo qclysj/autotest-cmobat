@@ -10,5 +10,3 @@ class SearchPage(BasePage):
     def search(self,text):
         self.input_element(self.search_box['type'],self.search_box['value'],text)
         self.click_element(self.search_button['type'],self.search_button['value'])
-    def is_search_successsful(self):
-        return True

@@ -1,4 +1,7 @@
+
+
 from pages.base_page import BasePage
+
 
 
 class LoginPage(BasePage):
@@ -16,6 +19,5 @@ class LoginPage(BasePage):
         self.input_element(self.input_password['type'], self.input_password['value'], password)
         self.click_element(self.login_submit['type'], self.login_submit['value'])
 
-    def is_login_successsful(self):
-        return True
+
 

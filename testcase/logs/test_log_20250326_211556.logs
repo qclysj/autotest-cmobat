@@ -1,0 +1,22 @@
+2025-03-26 21:15:56,787 - INFO - This is a test log message
+2025-03-26 21:15:56,792 - INFO - Starting login test with username: 123, password: pang20040207
+2025-03-26 21:16:08,265 - INFO - Opened main page
+2025-03-26 21:16:09,225 - INFO - Navigated to login page
+2025-03-26 21:16:10,328 - INFO - Opened login page
+2025-03-26 21:16:10,737 - INFO - Login attempt completed
+2025-03-26 21:16:10,740 - INFO - Starting login test with username: 18292830257, password: 12345
+2025-03-26 21:16:19,400 - INFO - Opened main page
+2025-03-26 21:16:20,001 - INFO - Navigated to login page
+2025-03-26 21:16:20,231 - INFO - Opened login page
+2025-03-26 21:16:20,473 - INFO - Login attempt completed
+2025-03-26 21:16:20,475 - INFO - Starting login test with username: 18292830257, password: pang20040207
+2025-03-26 21:16:29,074 - INFO - Opened main page
+2025-03-26 21:16:29,715 - INFO - Navigated to login page
+2025-03-26 21:16:29,939 - INFO - Opened login page
+2025-03-26 21:16:30,218 - INFO - Login attempt completed
+2025-03-26 21:16:30,220 - INFO - Starting search test with text:  
+2025-03-26 21:16:38,783 - INFO - Opened main page
+2025-03-26 21:16:39,017 - INFO - Search attempt completed
+2025-03-26 21:16:39,019 - INFO - Starting search test with text: iphone16promax
+2025-03-26 21:16:47,806 - INFO - Opened main page
+2025-03-26 21:16:47,999 - INFO - Search attempt completed

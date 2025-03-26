@@ -56,3 +56,5 @@ class BasePage():
 
     def wait(self):
         time.sleep(8)
+
+
