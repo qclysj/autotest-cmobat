@@ -48,9 +48,9 @@ logging.info("This is a test log message")
 
 class TestDemo:
     @pytest.mark.parametrize('username,password', [
-        ('123', 'pang20040207'),
-        ('18292830257', '12345'),
-        ('18292830257', 'pang20040207')
+        ('123', 'rightpwd'),
+        ('rightusername', 'rightpwd'),
+        ('rightusername', 'rightpwd')
     ])
     def test_01_login(self, username, password):
         try:
