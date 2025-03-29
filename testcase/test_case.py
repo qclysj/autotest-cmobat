@@ -48,11 +48,11 @@ logging.info("This is a test log message")
 
 class TestDemo:
     @pytest.mark.parametrize('username,password', [
-        ('123', 'pang20040207'),
-        ('18292830257', '12345'),
-        ('18292830257', 'pang20040207')
+        ('123', 'yourpassword'),
+        ('yourusername', '12345'),
+        ('yourusername', 'yourpassword')
     ])
-    def test_01_login(self, username, password):
+    def test_01_login(self, username, password,send_report):
         try:
             print("Test login is running")  # 验证测试用例是否运行
             logging.info(f"Starting login test with username: {username}, password: {password}")
@@ -71,7 +71,7 @@ class TestDemo:
             raise
 
     @pytest.mark.parametrize('text', [' ', 'iphone16promax'])
-    def test_01_search(self, text):
+    def test_01_search(self, text,send_report):
         try:
             print("Test search is running")  # 验证测试用例是否运行
             logging.info(f"Starting search test with text: {text}")
